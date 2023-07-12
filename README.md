@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranavan-S
-- 👀 I’m interested in Datascience, Artificial Intelligence
+- 👀 I’m interested in Data Science, Artificial Intelligence and Datastructures Algorithms.
 - 🌱 I’m currently learning Java and C++
 - 💞️ I’m looking to contribute to open projects.
 - 📫 Reach me via 
